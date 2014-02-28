@@ -1,4 +1,3 @@
-gwendolyncs.github.io
-=====================
+# Gwendolyncs's homepage
 
-NICAR github 101
+just a basic sample of github
